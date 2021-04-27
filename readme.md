@@ -1,5 +1,5 @@
 # Testing Git for Linux using VS CODE
 
-- second c
+- second co
 - third commit
 - Checking pull
