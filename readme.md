@@ -1,4 +1,4 @@
-# Testing Git for Linux using VS CODE
+# Testing Git for Linux using VS 
 
 - second commit
 - third commit
